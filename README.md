@@ -5,40 +5,37 @@ Welcome to my GitHub profile. I'm passionate about Backend, Mobile, and AI Ethic
 ## About Me
 
 🌱 I'm currently exploring React Native for mobile dev and training for the 4 marathons I signed up in 2024.
+
 😄 Pronouns: He/Him.
-💬 Ask me about [Your Expertise].
+
+💬 Ask me about [Where to hike and What to eat in Bay Area].
+
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tuedolm/).
 
-## Tech Stack
+<!--## Tech Stack
 
 ![Tech 1](https://img.shields.io/badge/Tech-YourTech-blue)
 ![Tech 2](https://img.shields.io/badge/Tech-YourTech-green)
 ![Tech 3](https://img.shields.io/badge/Tech-YourTech-orange)
-
+-->
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuedolm&show_icons=true&count_private=true&hide=contribs,issues)
 
 ## Projects Showcase
 
-### Project 1: [Project Name](Link to Project)
-Brief description and any badges or images.
+### Project 1: [CrissSync](https://www.devpost.com/software/crisissync/)
+Won 1st place in UC Berkeley Cal Hack 10.0 2023 in ZeppOS Wearable Health Track
 
-### Project 2: [Project Name](Link to Project)
-Brief description and any badges or images.
-
-### Project 3: [Project Name](Link to Project)
-Brief description and any badges or images.
 
 ## GitHub Contributions
 
-![Snake Game Example](snake-game.gif)
+![Snake animation](https://raw.githubusercontent.com/{tuedolm}/{tuedolm}/output/github-contribution-grid-snake-dark.svg)
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](YourLinkedInProfileLink)
-[![Twitter](https://img.shields.io/badge/Twitter-YourTwitter-blue)](YourTwitterProfileLink)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-green)](YourPortfolioLink)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/tuedolm/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-green)](https://tuedolm.com/)
 
 ## Inspirational Quote
 
