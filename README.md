@@ -30,7 +30,7 @@ Won 1st place in UC Berkeley Cal Hack 10.0 2023 in ZeppOS Wearable Health Track
 
 ## GitHub Contributions
 
-![Snake animation](https://raw.githubusercontent.com/{tuedolm}/{tuedolm}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{tuedolm}/{tuedolm}/output/github-contribution-grid-snake.svg)
 
 ## Connect with Me
 
