@@ -8,7 +8,7 @@ Welcome to my GitHub profile. I'm passionate about Backend, Mobile, and AI Ethic
 
 😄 Pronouns: He/Him.
 
-💬 Ask me about [Where to hike and What to eat in Bay Area].
+💬 Ask me about Where to hike and What to eat in Bay Area.
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tuedolm/).
 
