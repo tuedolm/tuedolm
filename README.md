@@ -1,6 +1,6 @@
 # Hi there, I'm Tue! 👋
 
-Welcome to my GitHub profile. I'm passionate about Backend, Mobile, and AI Ethics. Here you'll find a mix of my projects, contributions, and a glimpse into my coding journey.
+Welcome to my GitHub profile. I'm passionate about Backend, Mobile, and Prompt Engineering. Here you'll find a mix of my projects, contributions, and a glimpse into my coding journey.
 
 ## About Me
 
