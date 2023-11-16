@@ -39,6 +39,6 @@ Won 1st place in UC Berkeley Cal Hack 10.0 2023 in ZeppOS Wearable Health Track
 
 ## Inspirational Quote
 
-> "Your favorite quote or a short motivational message."
+> "When you see something that is technically sweet you go ahead and do it." - JRO
 
 Feel free to explore my projects, and let's connect! 🚀
