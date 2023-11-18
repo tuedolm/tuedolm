@@ -6,11 +6,11 @@ Welcome to my GitHub profile. I'm passionate about Backend, Mobile, and Prompt E
 
 🌱 I'm currently exploring React Native for mobile dev and training for the 4 marathons I signed up in 2024.
 
-😄 Pronouns: He/Him.
-
 💬 Ask me about Where to hike and What to eat in Bay Area.
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tuedolm/).
+
+![](https://komarev.com/ghpvc/?username=tuedolm)
 
 <!--## Tech Stack
 
