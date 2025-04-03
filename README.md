@@ -2,10 +2,6 @@
 
 I'm an early career engineer that just love building random shower thoughts into prototypes. I have a strong interest in automations and untie bottlenecks in system, currently going deep in backend development while vibe coding web pages for small local restaurants / food trucks for free. While not in front of my monitor, I enjoy hiking with friends, going to hackathons for free merch, and exploring local food scenes wherever I'm currently at.
 
-### 🍔 Favorite Foods  : Bun Bo Hue and Naengmyeon
-
-### 📚 Currently Reading  : Principles by Ray Dalio
-
 ### 🎓 Learning  : 
 
 - Prompt engineering for visual models to generate web UIs, Leetcoding and Golang for my career
@@ -15,7 +11,11 @@ I'm an early career engineer that just love building random shower thoughts into
 
 - An open source non towered airports safety system (apparently 20,000 airports in US is non towered VS 500 that is towered) 
 - Another redo of my website, this time with progress tracking on things and a recap feature like Spotify wrapped (then probably also open source it for everyone)
-  
+
+### My hot take on AI replacing engineers and entry level market:
+
+![image](https://github.com/user-attachments/assets/b9d12ef6-5825-4950-bcce-9d7d2990aaa6)
+
 ## My Skills
 
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
