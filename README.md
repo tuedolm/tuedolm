@@ -9,7 +9,7 @@ I'm an early career engineer that just love building random shower thoughts into
 ### 🎓 Learning  : 
 
 - Prompt engineering for visual models to generate web UIs, Leetcoding and Golang for my career
-- Documenting my grandmas and mom cooking recipes and getting my private flight
+- Documenting my grandmas and mom cooking recipes and getting my private pilot license
 
 ### ⚡ Currently Doing  : 
 
