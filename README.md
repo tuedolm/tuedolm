@@ -57,4 +57,4 @@ I'm an early career engineer that just love building random shower thoughts into
 
 ## Connect with me
 
-<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/tuedolm" target="_blank">Tue Do</a> Email: tuedo.lm@gmail.com</p>
+<p align="center"> Email: tuedo.lm@gmail.com</p>
