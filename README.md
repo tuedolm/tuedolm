@@ -41,11 +41,6 @@ I'm an early career engineer that just love building random shower thoughts into
 <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> 
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
-<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"> 
-<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
 
 ## GitHub Stats
 
