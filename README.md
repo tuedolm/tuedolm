@@ -1,8 +1,11 @@
 ## About Me
 
-I'm an early career engineer that just love building random shower thoughts into prototypes. I have a strong interest in automations and untie bottlenecks in system, currently going deep in backend development while vibe coding web pages for small local restaurants / food trucks for free.
+I'm an early career engineer that just love building random shower thoughts into prototypes. I have a strong interest in automations and untie bottlenecks in system, currently going deep in backend development while vibe coding web pages for small local restaurants / food trucks for free.While not in front of my monitor, I enjoy hiking with friends, going to hackathons for free merch, and exploring local food scenes wherever I'm currently at.
 
-While not in front of my monitor, I enjoy hiking with friends, going to hackathons for free merch, and exploring local food scenes wherever I'm currently at. I'm a fanatic for Matcha Latte and Bun Bo Hue.
+
+![image](https://github.com/user-attachments/assets/84930fee-0f60-4a1b-ae24-e4c298321b64) Favorite Foods: Bun Bo Hue and Naengmyeon
+Currently reading: Principles by Ray Dalio
+
 
 ## My Skills
 
