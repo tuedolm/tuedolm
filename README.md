@@ -2,7 +2,7 @@
 
 I'm an early career engineer that just love building random shower thoughts into prototypes. I have a strong interest in automations and untie bottlenecks in system, currently going deep in backend development while vibe coding web pages for small local restaurants / food trucks for free.
 
-While not in front of my monitor, I enjoy hiking with friends, going to hackathons for free merch, and exploring local food scenes wherever I'm currently at. Before being an engineer, I was a barista and cook, I'm a fanatic for Matcha Latte and Bun Bo Hue.
+While not in front of my monitor, I enjoy hiking with friends, going to hackathons for free merch, and exploring local food scenes wherever I'm currently at. I'm a fanatic for Matcha Latte and Bun Bo Hue.
 
 ## My Skills
 
