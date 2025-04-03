@@ -1,44 +1,48 @@
-# Hi there, I'm Tue! 👋
-
-Welcome to my GitHub profile. I'm passionate about Backend, Mobile, and Prompt Engineering. Here you'll find a mix of my projects, contributions, and a glimpse into my coding journey.
-
 ## About Me
 
-🌱 I'm currently exploring React Native for mobile dev and training for the 4 marathons I signed up in 2024.
+I'm an early career engineer that just love building random shower thoughts into prototypes. I have a strong interest in automations and untie bottlenecks in system, currently going deep in backend development while vibe coding web pages for small local restaurants / food trucks for free.
 
-💬 Ask me about Where to hike and What to eat in Bay Area.
+While not in front of my monitor, I enjoy hiking with friends, going to hackathons for free merch, and exploring local food scenes wherever I'm currently at. Before being an engineer, I was a barista and cook, I'm a fanatic for Matcha Latte and Bun Bo Hue.
 
-📫 How to reach me: [Linkedin](https://www.linkedin.com/in/tuedolm/).
+## My Skills
 
-![](https://komarev.com/ghpvc/?username=tuedolm)
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000"> 
+<img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white"> 
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff"> 
+<img src="https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white"> 
+<img src="https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
+<img src="https://img.shields.io/badge/FastAPI-009485.svg?logo=fastapi&logoColor=white"> 
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white"> 
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white"> 
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white"> 
+<img src="https://img.shields.io/badge/Firebase-039BE5?logo=Firebase&logoColor=white"> 
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white"> 
+<img src="https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white"> 
+<img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"> 
+<img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
+<img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
+<img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Homebrew-FBB040?logo=homebrew&logoColor=fff"> 
+<img src="https://img.shields.io/badge/Yarn-2C8EBB?logo=yarn&logoColor=fff"> 
+<img src="https://img.shields.io/badge/PyPI-3775A9?logo=pypi&logoColor=fff"> 
 
-<!--## Tech Stack
-
-![Tech 1](https://img.shields.io/badge/Tech-YourTech-blue)
-![Tech 2](https://img.shields.io/badge/Tech-YourTech-green)
-![Tech 3](https://img.shields.io/badge/Tech-YourTech-orange)
--->
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuedolm&show_icons=true&count_private=true&hide=contribs,issues)
+<table><tbody><tr border="none"><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=tuedolm&theme=dark&show_icons=true&count_private=true">
 
-## Projects Showcase
+<img alt="Mark streak" src="https://github-readme-streak-stats-five-roan.vercel.app?user=tuedolm&theme=dark"></td><td width="50%" align="center">
+<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/top-langs/?username=tuedolm&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=6"></td></tr></tbody></table>
 
-### Project 1: [CrissSync](https://www.devpost.com/software/crisissync/)
-Won 1st place in UC Berkeley Cal Hack 10.0 2023 in ZeppOS Wearable Health Track
+## Connect with me
 
-
-## GitHub Contributions
-
-![Snake animation](https://raw.githubusercontent.com/tuedolm/tuedolm/output/github-contribution-grid-snake-dark.svg)
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourLinkedIn-blue)](https://www.linkedin.com/in/tuedolm/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-YourPortfolio-green)](https://tuedolm.com/)
-
-## Inspirational Quote
-
-> "When you see something that is technically sweet you go ahead and do it." - JRO
-
-Feel free to explore my projects, and let's connect! 🚀
+<p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/tuedolm" target="_blank">Tue Do</a> Email: tuedo.lm@gmail.com</p>
