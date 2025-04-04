@@ -42,9 +42,6 @@ I'm an early career engineer that just love building random shower thoughts into
 <img src="https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white"> 
 <img src="https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=fff"> 
 
-## GitHub Stats
-
-[![GitHub Streak](https://github-readme-streak-stats-five-roan.vercel.app?user=tuedolm&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with me
 
