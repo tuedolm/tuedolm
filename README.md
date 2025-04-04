@@ -10,7 +10,7 @@ I'm an early career engineer that just love building random shower thoughts into
 ### ⚡ Currently Doing  : 
 
 - An open source non towered airports safety system (apparently 20,000 airports in US is non towered VS 500 that is towered) 
-- Another redo of my website, this time with progress tracking on things and a recap feature like Spotify wrapped (then probably also open source it for everyone)
+- Another redo of my website, this time with progress tracking on things and a recap feature like Spotify wrapped 
 
 ### My hot take on AI replacing engineers and entry level market:
 
