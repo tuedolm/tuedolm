@@ -44,7 +44,7 @@ I'm an early career engineer that just love building random shower thoughts into
 
 ## GitHub Stats
 
-<img align="center" src="https://readme-stats-fork-mauve.vercel.app/api/?username=tuedolm&theme=dark&show_icons=true&count_private=true">
+[![GitHub Streak](https://github-readme-streak-stats-five-roan.vercel.app?user=tuedolm&theme=dark)](https://git.io/streak-stats)
 
 ## Connect with me
 
